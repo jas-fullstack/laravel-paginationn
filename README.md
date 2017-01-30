@@ -1,4 +1,4 @@
-# laravel-pagination
+# laravel-pagination if you want more help you can mail me at kumarsanju54@gmail.com
 
 Very simple code to implement pagination for laravel 5.3.4.
 #Step 1. Use DB;  in your controller file.
